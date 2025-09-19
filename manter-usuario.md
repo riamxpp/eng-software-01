@@ -26,7 +26,7 @@
 | ------------------------- | ----------------------------------- | 
 | **Prioridade**            | Essencial                           | 
 | **Estimativa**            | 2 h                                 | 
-| **Tempo Gasto (real):**   | 1 h                                 | 
+| **Tempo Gasto (real):**   | 1:30 h                                 | 
 | **Tamanho Funcional**     |                                     | 
 | **Analista**              | Riam                                | 
 | **Desenvolvedor**         | Riam                                | 
