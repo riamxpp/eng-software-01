@@ -9,10 +9,10 @@
 | **Requisitos envolvidos** |                                                    |
 | ------------- | :------------------------------------------------------------- |
 | RF01          | Manter usuário |
-| RF01.1          | Cadastrar Usuário  |
-| RF03          | Alterar Usuário  |
-| RF04          | Consultar Usuários        |
-| RF05          | Excluir Usuário |
+| RF01.1        | Cadastrar Usuário  |
+| RF01.2        | Alterar Usuário  |
+| RF01.3        | Consultar Usuários        |
+| RF01.4        | Excluir Usuário |
 
 | Código | Descrição |
 |--------|----------------------------------------------------|
@@ -30,7 +30,7 @@
 | **Tamanho Funcional**     |                                     | 
 | **Analista**              | Riam                                | 
 | **Desenvolvedor**         | Riam                                | 
-| **Revisor**               | Adriany                             | 
+| **Revisor**               | Ariadny                             | 
 | **Testador**              | José                                | 
 
 ### User Story US02 - Manter Projeto
