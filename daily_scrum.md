@@ -2,6 +2,25 @@
 
 ---
 
+*** 24/09/2025 ***
+
+**[Riam Stefesom]**
+- **O que eu fiz ontem:** Criou um User Story.
+- **O que eu vou fazer hoje:** Atualizar o sprint_01_planning.
+- **Impedimentos:** Nenhum.
+
+**[Ariadny Dantas]**
+- **O que eu fiz ontem:** Criou um User Story.
+- **O que eu vou fazer hoje:** Ajudar na atualização do sprint_01_planning. 
+- **Impedimentos:** Nenhum.
+
+**[José Salustiano]**
+- **O que eu fiz ontem:** Iniciou o User Story de gerar relatório.
+- **O que eu vou fazer hoje:** Terminar User Story de Gerar ralatório.
+- **Impedimentos:** Apresentou uma dificuldade com ela a ao que deve ser feito no Gerar relatório.
+
+---
+
 *** 22/09/2025 ***
 
 **[Riam Stefesom]**

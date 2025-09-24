@@ -13,9 +13,17 @@
 
 *** O que deve ser feito na Sprint. ***
 1. Requisitos funcionais
+  * Manter usuário (Riam)
+  * Manter veículos (José)
+  * Manter proncedimentos (Riam)
+  * Manter insumos (Ariadny)
+  * Manter ordem de serviço (Riam)
+  * Gerar relatório (José)
+
 2. Definir a linguagem de programação
+  * Python
 3. Dinâmica
 
 *** Definir papéis ***
-* Scrum Master
-* Product Owner (PO)
+* Scrum Master (Riam)
+* Product Owner (PO) (Ariadny)
